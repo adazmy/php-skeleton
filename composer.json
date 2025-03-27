@@ -1,0 +1,16 @@
+{
+    "name": "adilazmy/php-skeleton",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Adilazmy\\PhpSkeleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adil AZMY",
+            "email": "adilazmy.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
